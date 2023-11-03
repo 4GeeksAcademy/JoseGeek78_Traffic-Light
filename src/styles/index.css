@@ -2,22 +2,25 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: black;
-    width: 200px;
+    justify-content: center; 
+    background-color: rgb(8, 8, 8);
+    width: 20%; 
     height: 550px;
-    margin: 15px;
-    border-radius: 30px; 
+    margin-left: 600px;
+    margin-top: 50px;
+    border-radius: 25px;
   }
   
+  
   .semaforo-button.rojo {
-    background-color: grey;
+    background-color: rgb(192, 189, 189);
   }
   
   .semaforo-button.amarillo {
-    background-color: grey;
+    background-color: rgb(192, 189, 189);
   }
   
   .semaforo-button.verde {
-    background-color: grey;
+    background-color: rgb(192, 189, 189);
   }
   
