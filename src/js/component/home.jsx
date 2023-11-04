@@ -46,7 +46,6 @@ function Semaforo ()  {
 			}
 		}
 		
-		
 	return (
 		<>
 		<div className= " semaforo-container" >
